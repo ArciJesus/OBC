@@ -15,3 +15,24 @@
 .rgba {
     color: rgba(150, 197, 247,.5);
 }
+
+/* fondos */
+.fondo {
+    /* background-color: blueviolet; */
+    background-image: url(https://www.encompasscorporation.com/wp-content/uploads/2015/09/example-background.jpg);
+    background-position: right bottom;
+}
+
+.fondo-interno {
+    background-image:url(images.jpg);
+
+}
+
+.ancho{
+    background-color: chartreuse;
+    width: 100px;
+}
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150,150,150);
+}
