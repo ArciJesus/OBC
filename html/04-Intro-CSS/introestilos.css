@@ -1,0 +1,17 @@
+.colores {
+    color: red;
+
+}
+
+.hexa-decimal {
+    color: #4ECDC4;
+}
+
+.rgb {
+    color: rgb(255, 230,109);
+
+}
+
+.rgba {
+    color: rgba(150, 197, 247,.5);
+}
