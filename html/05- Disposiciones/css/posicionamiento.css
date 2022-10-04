@@ -1,3 +1,27 @@
-p {
-    color: blue;
+div {
+    border: 1px solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+
+.fixed {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: greenyellow;
+}
+
+.absolute{
+    position: absolute;
+    background-color: red;
+    right: 0px;
+}
+
+ .relative.contenedor {
+  
+    width: 300px;
+    height: 400px;
+    background-color:blue;
 }
